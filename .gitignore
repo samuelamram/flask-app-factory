@@ -84,6 +84,7 @@ celerybeat-schedule
 env/
 venv/
 ENV/
+activate.bat
 
 # Spyder project settings
 .spyderproject
@@ -99,4 +100,4 @@ ENV/
 .mypy_cache/
 
 # Jetbrains
-.idea
+.idea/
